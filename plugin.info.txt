@@ -1,0 +1,7 @@
+base   llm
+author dodotori @ dokuwikiforum
+email  dodotori @ dokuwikiforum
+date   2025-03-04
+name   LLM Plugin
+desc   Integrates local language models (via llm.js) into Dokuwiki’s edit page, offering AI-powered text generation, summarization, proofreading, and translation.
+url    https://www.dokuwiki.org/plugin:llm
